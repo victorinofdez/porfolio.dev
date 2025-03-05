@@ -1,0 +1,16 @@
+[
+  {
+    "dates": " sept. 2024 - dic. 2024",
+    "company": "REMARQUS MEDIA CONSULTING SL",
+    "position": "Desarrollador Junior Full-Stack Magento 2",
+    "description": " Mi experiencia se centra en el desarrollo de funcionalidades personalizadas para Magento 2, abarcando tanto el backend como el frontend. Implementé y gestioné entornos de desarrollo Dockerizados, asegurando la homogeneidad y eficiencia del equipo. Además, diseñé, desarrollé y optimicé módulos personalizados, integrando nuevas funcionalidades para ampliar las capacidades de la plataforma. Destaca la implementación de un entorno de desarrollo en Docker, que redujo el tiempo de configuración inicial en un 50%, mejorando significativamente la productividad del equipo.",
+    "svgIcon": "<svg class='size-4 text-gray-600 dark:text-gray-400' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'> <path stroke-linecap='round' stroke-width='2' d='M8 8V6a2 2 0 012-2h4a2 2 0 012 2v2' /> <path stroke-linecap='round' stroke-width='2' d='M4 14l3.15.787a20 20 0 009.7 0L20 14' /> <path stroke-linejoin='round' stroke-width='2' d='M4 10a2 2 0 012-2h12a2 2 0 012 2v8a2 2 0 01-2 2H6a2 2 0 01-2-2v-8z' /><circle cx='12' cy='12' r='1' /></svg>"
+  },
+  {
+    "dates": "Mar – Jun 2024",
+    "company": "Ecope Informática",
+    "position": "Prácticas Desarrollador Full-Stack",
+    "description": "Desarrollo integral de aplicaciones web, gestionando tanto el frontend con React y Next.js como el backend utilizando Laravel para crear APIs robustas y escalables.",
+    "svgIcon": "<svg class='size-4 text-gray-600 dark:text-gray-400' fill='none' stroke='currentColor' viewBox='0 0 24 24' xmlns='http://www.w3.org/2000/svg'> <path stroke-linecap='round' stroke-width='2' d='M8 8V6a2 2 0 012-2h4a2 2 0 012 2v2' /> <path stroke-linecap='round' stroke-width='2' d='M4 14l3.15.787a20 20 0 009.7 0L20 14' /> <path stroke-linejoin='round' stroke-width='2' d='M4 10a2 2 0 012-2h12a2 2 0 012 2v8a2 2 0 01-2 2H6a2 2 0 01-2-2v-8z' /><circle cx='12' cy='12' r='1' /></svg>"
+  }
+]

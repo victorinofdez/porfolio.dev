@@ -1,0 +1,39 @@
+[
+
+  {
+    "name": "Moments",
+    "description": "'Moments' es una tienda online de vinos desarrollada con HTML, CSS, JavaScript y jQuery. El proyecto se centra en crear una experiencia de usuario inmersiva y elegante, con un diseño minimalista que invita a descubrir la calidad y singularidad de los vinos ofrecidos.",
+    "urlImg": "/projects/moments.webp",
+    "link": "/"
+  },
+  {
+    "name": "AnyVitorino Interiors",
+    "description": "'AnyVitorinoInteriors' es un sitio web desarrollado en WordPress que presenta los servicios y proyectos de diseño de interiores de AnyVitorino Interiors. El sitio ofrece información sobre los servicios disponibles, incluyendo diseño de interiores de lujo, enfoque estratégico de diseño, branding e identidad, y creación de contenido personalizado.",
+    "urlImg": "/projects/anyVitorinoInteriors.webp",
+    "link": "/"
+  },
+  {
+    "name": "NZ - Style is Everything",
+    "description": "'NZ' es una web desarrollada con HTML, CSS y JavaScript, que ofrece servicios de diseño gráfico y desarrollo web. Su enfoque minimalista se aplica a la creación de logotipos, diseño web e impresos, informes fotográficos, gráficos en movimiento y desarrollo de sitios web responsivos.",
+    "urlImg": "/projects/nz.webp",
+    "link": "/"
+  },
+  {
+    "name": "KingdomBattle",
+    "description": "KingdomBattle es un emocionante juego desarrollado con Phaser 3, que lleva a los jugadores a una épica aventura en un reino lleno de batallas y desafíos.",
+    "urlImg": "/projects/kingdomLogo.webp",
+    "link": "/"
+  },
+  {
+    "name": "Aurora",
+    "description": "'Aurora' es un sitio web diseñado para el restaurante de estrella Michelin del mismo nombre, desarrollado con HTML, CSS y JavaScript. El sitio web destaca la elegancia y sofisticación del restaurante, ofreciendo información sobre su menú, filosofía culinaria y experiencia gastronómica.",
+    "urlImg": "/projects/aurora.webp",
+    "link": "/"
+  },
+  {
+    "name": "Granada Park",
+    "description": "'Aurora' es un sitio web diseñado para el restaurante de estrella Michelin del mismo nombre, construido con HTML, CSS y JavaScript. El sitio web destaca la elegancia y sofisticación del restaurante, ofreciendo información sobre su menú, filosofía culinaria y experiencia gastronómica. El diseño limpio y moderno busca reflejar la calidad y exclusividad del restaurante Aurora.",
+    "urlImg": "/projects/granada.webp",
+    "link": "/"
+  }
+]

@@ -1,0 +1,17 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+@theme {
+  --breakpoint-xs: 32rem;
+}
+
+.backdrop {
+  @apply fixed top-0 left-0 inset-0 z-40 bg-gray-950/50;
+}
+
+header {
+  transition: transform 0.3s ease-in-out; /* Agrega una transición suave */
+}
+
+header.hidden-on-scroll {
+  transform: translateY(-100%); /* Oculta el encabezado deslizándolo hacia arriba */
+}
