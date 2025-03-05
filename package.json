@@ -9,7 +9,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/vercel": "^8.1.0",
     "@tailwindcss/vite": "^4.0.5",
     "astro": "^5.2.5",
     "handlebars": "^4.7.8",
